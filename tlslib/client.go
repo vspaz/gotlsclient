@@ -1,4 +1,4 @@
-package tls
+package tlslib
 
 import (
 	"crypto/tls"
